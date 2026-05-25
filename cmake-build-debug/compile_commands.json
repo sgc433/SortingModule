@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/курсовая/cmake-build-debug",
+  "command": "C:\\Users\\sgc\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\main.c.dir\\main.c.obj -c D:\\курсовая\\main.c",
+  "file": "D:/курсовая/main.c",
+  "output": "D:/курсовая/cmake-build-debug/CMakeFiles/main.c.dir/main.c.obj"
+},
+{
+  "directory": "D:/курсовая/cmake-build-debug",
+  "command": "C:\\Users\\sgc\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\main.c.dir\\sort.c.obj -c D:\\курсовая\\sort.c",
+  "file": "D:/курсовая/sort.c",
+  "output": "D:/курсовая/cmake-build-debug/CMakeFiles/main.c.dir/sort.c.obj"
+},
+{
+  "directory": "D:/курсовая/cmake-build-debug",
+  "command": "C:\\Users\\sgc\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\tests.dir\\tests.c.obj -c D:\\курсовая\\tests.c",
+  "file": "D:/курсовая/tests.c",
+  "output": "D:/курсовая/cmake-build-debug/CMakeFiles/tests.dir/tests.c.obj"
+},
+{
+  "directory": "D:/курсовая/cmake-build-debug",
+  "command": "C:\\Users\\sgc\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\tests.dir\\sort.c.obj -c D:\\курсовая\\sort.c",
+  "file": "D:/курсовая/sort.c",
+  "output": "D:/курсовая/cmake-build-debug/CMakeFiles/tests.dir/sort.c.obj"
+}
+]

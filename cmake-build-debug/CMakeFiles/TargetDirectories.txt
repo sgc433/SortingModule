@@ -1,0 +1,4 @@
+D:/курсовая/cmake-build-debug/CMakeFiles/main.c.dir
+D:/курсовая/cmake-build-debug/CMakeFiles/tests.dir
+D:/курсовая/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/курсовая/cmake-build-debug/CMakeFiles/rebuild_cache.dir
